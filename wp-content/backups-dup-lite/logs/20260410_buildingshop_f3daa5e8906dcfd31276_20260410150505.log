@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 10.04.2026 15:06
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.16
+WORDPRESS:	6.9.4
+PHP INFO:	8.0.22 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+MEMORY STACK: 132MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20260410_buildingshop_f3daa5e8906dcfd31276_20260410150505_database.sql
+SQL FILE SIZE: 4.21MB (4414813)
+SQL FILE TIME: 2026-04-10 15:06:49
+SQL RUNTIME: 16.06 сек.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/Users/irina/Desktop/OSPanel/domains/building-shop
+ARCHIVE FILE: 20260410_buildingshop_f3daa5e8906dcfd31276_20260410150505_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	324.44MB
+STATS:	Dirs 2,792 | Files 16,072
+SQL ADDED: 20260410_buildingshop_f3daa5e8906dcfd31276_20260410150505_database.sql
+ZipArchive Object
+(
+    [lastId] => 18863
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 18864
+    [filename] => C:\Users\irina\Desktop\OSPanel\domains\building-shop\wp-content\backups-dup-lite\tmp\20260410_buildingshop_f3daa5e8906dcfd31276_20260410150505_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 18863
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 150.03MB
+ARCHIVE RUNTIME: 133.95 сек.
+MEMORY STACK: 136MB
+building installer
+ПРОВЕРКА АРХИВА НА ЦЕЛОСТНОСТЬ: ПРОЙДЕНА
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 4.21MB
+INSTALLER FILE: 73.49KB
+ARCHIVE FILE: 152.14MB 
+ОЖИДАЕМОЕ КОЛИЧЕСТВО ФАЙЛОВ/КАТОЛОГ: 18,864
+ФАКТИЧЕСКОЕ КОЛИЧЕСТВО ФАЙЛОВ/КАТАЛОГОВ: 18,863
+ТЕСТ ЛОГИКИ АРХИВА: Пройден
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 155.44 сек.
+PEAK PHP MEMORY USED: 136MB
+DONE PROCESSING => 20260410_buildingshop 10.04.2026 15:09
+
